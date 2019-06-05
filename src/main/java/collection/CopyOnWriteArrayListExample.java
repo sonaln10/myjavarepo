@@ -9,7 +9,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
  * Iterator of CopyOnWriteArrayList
  * doesn’t support add, remove or any modification operation.
  *
- * @author Java67
+ * @author sonal.nikhade10@gmail.com
  */
 public class CopyOnWriteArrayListExample{
 
